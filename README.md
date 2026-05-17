@@ -1,16 +1,17 @@
-## Hi there 👋
+### Michael Minto
 
-<!--
-**mike-insight-engineered/mike-insight-engineered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production data and AI infrastructure. Fifteen-plus years of
+data engineering across mining, logistics, infrastructure and commercial
+data platforms for Australian businesses.
 
-Here are some ideas to get you started:
+Currently building **[Insight Engineered AI](https://www.insightengineered.ai)** —
+a production agentic AI platform with multi-tenant isolation, retrieval
+with grounding evaluation, append-only usage metering, and a hybrid privacy
+subsystem. Two-plane architecture (TypeScript control plane, Python execution
+plane) deployed on Azure. Four months and counting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the code is private — it's a commercial SaaS. Happy to walk
+through the architecture in conversations.
+
+Newcastle, NSW · he/him
+📫 [Contact via insightengineered.ai](https://www.insightengineered.ai/#contact)
